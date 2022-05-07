@@ -8,7 +8,7 @@ body {
     position: relative;
     display: block;
     background-color: #ffffff;
-    font-family: Axiforma;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(0, 0, 0);
     padding: 3% 1.5% 0% 1.5%;
     transition: 0.3s;
